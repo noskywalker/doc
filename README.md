@@ -1,3 +1,3 @@
 翻译自whitepaper
 
- ![avatar](wechat.jpg)
+ ![avatar](./wechat.jpeg)
